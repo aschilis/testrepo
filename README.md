@@ -1,3 +1,3 @@
 # testrepo
 Testing 
-Creating a test repository is a lot of fun!
+Creating a test repository may be a lot of fun!
